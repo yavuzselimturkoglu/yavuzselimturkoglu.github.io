@@ -1,0 +1,14 @@
+[
+    {
+        "relation":  [
+                         "delegate_permission/common.handle_all_urls"
+                     ],
+        "target":  {
+                       "namespace":  "android_app",
+                       "package_name":  "com.parcacini.app.sharetest",
+                       "sha256_cert_fingerprints":  [
+                                                        "75:23:91:4C:CE:3B:A8:35:A2:07:1D:F1:06:57:32:D1:29:72:0E:22:52:10:12:36:E1:79:1E:A5:3D:E3:72:27"
+                                                    ]
+                   }
+    }
+]
